@@ -8,7 +8,7 @@
 
 It takes the place of the default `tuistenv` manager, which means that the commands explained at the [Tuist Version Management Docs](https://docs.tuist.io/guides/version-management) are not available. Use the standard `asdf`/`rtx` commands for those features.
 
-If you enbale `legacy-version-file` in `asdf`  ([asdf docs](https://asdf-vm.com/manage/configuration.html#legacy-version-file), enabled by default in rtx), it will read `.tuist-version` files, and interoperate seamlessly with people using `tuistenv`.
+If you enable `legacy-version-file` in `asdf`  ([asdf docs](https://asdf-vm.com/manage/configuration.html#legacy-version-file), on by default in rtx), it will read `.tuist-version` files, and interoperate seamlessly with people using `tuistenv`.
 
 # Contents
 
