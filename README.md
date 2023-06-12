@@ -15,6 +15,7 @@
 
 # Dependencies
 
+- macOS
 - `bash`, `curl`, `unzip`: generic POSIX utilities.
 
 # Install
