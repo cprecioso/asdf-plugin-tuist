@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-echo "Tuist/.tuist-version"
+echo ".tuist-version"
