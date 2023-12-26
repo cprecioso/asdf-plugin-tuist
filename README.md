@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> This plugin has been replaced by the official one, please migrate.  
+> https://github.com/asdf-community/asdf-tuist
+> 
+
+
+---
+
+
 <div align="center">
 
 # asdf-tuist [![Build](https://github.com/cprecioso/asdf-tuist/actions/workflows/build.yml/badge.svg)](https://github.com/cprecioso/asdf-tuist/actions/workflows/build.yml) [![Lint](https://github.com/cprecioso/asdf-tuist/actions/workflows/lint.yml/badge.svg)](https://github.com/cprecioso/asdf-tuist/actions/workflows/lint.yml)
